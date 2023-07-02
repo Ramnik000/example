@@ -15,7 +15,7 @@ public class Gitoperations {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("To learn git operations");
+        System.out.println("To learn git operations commit");   
     }
     
 }
