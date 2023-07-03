@@ -17,6 +17,7 @@ public class Gitoperations {
         // TODO code application logic here
         System.out.println("To learn git operations commit");   
         System.out.println("changes at remo repo");   
+        System.out.println("change to learn fetch and merge"):
     }
     
 }
